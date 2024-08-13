@@ -5,6 +5,12 @@
 3. Run the Jupyter Notebook `CS480_Project.ipynb`
 
 
+Note: To generate embeddings, it can take several hours depending on GPU. To train with all 5 folds of cross validation, it can take up to 15 hours on CPU. A notebook output is in this repository as reference (`CS480_Project_notebook_output.pdf`).
+
+
+## Tuning
+Tuning was done with the code snippets in `tune.py`. The obtained values are now hard-coded.
+
 
 ## Troubleshooting
 If 
