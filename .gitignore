@@ -2,3 +2,7 @@ train_images
 test_images
 saved_models
 __pycache__
+catboost_info
+.vscode
+archive
+saved_models_1
